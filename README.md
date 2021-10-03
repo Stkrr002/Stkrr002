@@ -4,7 +4,8 @@
 - * Know well about Linux.
 - * A good problem solver(DSA).
 - 💞️ I’m looking to collaborate on Youtube
-- 📫 How to reach me  https://www.linkedin.com/in/sumit-kumar-259a761b8/
+- 📫 How to reach me  https://www.linkedin.com/in/Stkrr002
+- 
 
 <!---
 Stkrr002/Stkrr002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
