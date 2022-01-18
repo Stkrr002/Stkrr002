@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sumit Kumar
-- 👀 I’m interested in Android development(JAVA)
+- 👀 I’m interested in Android development(JAVA/Kotlin)
 - 🌱 I’m currently learning blockchain technology
 - * Know well about Linux.
 - * A good problem solver(DSA).
