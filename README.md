@@ -8,6 +8,7 @@
 - * A good problem solver(DSA). </br>
 - An open source enthusiast. </br>
 - Interested in blockchain and AR VR. </br>
+- I love to build android native applications and play with kernel.
 
 <!---
 Stkrr002/Stkrr002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
