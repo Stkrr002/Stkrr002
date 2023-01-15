@@ -2,7 +2,7 @@
 ## About Me
 <img width="55%" height="500" align="right" alt="Github" src="https://user-images.githubusercontent.com/88109183/212559869-818af01d-4942-4469-8e09-33093a4b6815.jpg" />
 - I'm in my pre-final year of CSE Grad. </br>
-- Currently working as Android developer(JAVA/Kotlin)
+- Currently working as Android developer(JAVA/Kotlin).
 - Learning backend development.
 - * Know well about Linux.
 - * A good problem solver(DSA).
