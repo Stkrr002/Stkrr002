@@ -1,6 +1,6 @@
 # Hi, I'm Sumit Kumar, Software Developer 🚀 from India.<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="30px">
 ## About Me
-<img width="55%"  height="30%" align="right" alt="Github" src="https://user-images.githubusercontent.com/88109183/212559869-818af01d-4942-4469-8e09-33093a4b6815.jpg" />
+<img width="55%" height="150" align="right" alt="Github" src="https://user-images.githubusercontent.com/88109183/212559869-818af01d-4942-4469-8e09-33093a4b6815.jpg" />
 - I'm in my pre-final year of CSE Grad.
 - Currently working as Android developer(JAVA/Kotlin)
 - Learning backend development.
@@ -14,7 +14,7 @@ Stkrr002/Stkrr002 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-Techs I know:-
+## Techs I know:-
 <p align="left">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="31" height="35"/> &nbsp;
@@ -26,7 +26,7 @@ Techs I know:-
 
 
 
-->Connect with me:-
+## Connect with me:-
 
 <a href="mailto:sumitkrr2002@gmail.com">
   <img align="left" width="24px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
