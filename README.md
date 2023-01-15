@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning blockchain technology
 - * Know well about Linux.
 - * A good problem solver(DSA).
-- 💞️ I’m looking to collaborate on Youtube
+-  I’m looking to collaborate on Youtube
 - 📫 How to reach me  https://www.linkedin.com/in/Stkrr002
 
 
