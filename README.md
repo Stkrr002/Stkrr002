@@ -54,4 +54,3 @@ You can click the Preview link to take a look at your changes.
   <img src="https://profile-counter.glitch.me/stkrr002/count.svg" />
 </p>
 
-![snake gif](https://github.com/tanyarajhans/Actions/blob/output/github-contribution-grid-snake.svg)
