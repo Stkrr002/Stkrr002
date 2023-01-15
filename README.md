@@ -43,11 +43,11 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
 
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=stkrr002&theme=react&show_icons=true&hide=stars&count_private=true" />
-  <img height="150" src ="http://github-readme-streak-stats.herokuapp.com?user=stkrr002&theme=react" />
+  <img height="150" src ="[http://github-readme-streak-stats.herokuapp.com?user=stkrr002&theme=react](https://github-readme-streak-stats.herokuapp.com?user=stkrr002&theme=react&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)" />
 </p>
 
 <br />
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=stkrr002&theme=react&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+ 
 
 <p align="center"> 
   Visitor count<br>
