@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sumit Kumar
+# Hi, I'm Sumit Kumar, Software Developer 🚀 from India.<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="30px">
 - 👀 I’m interested in Android development(JAVA/Kotlin)
 - 🌱 I’m currently learning blockchain technology
 - * Know well about Linux.
