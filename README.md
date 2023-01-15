@@ -1,6 +1,6 @@
 # Hi, I'm Sumit Kumar, Software Developer 🚀 from India.<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="30px">
 ## About Me
-<img width="55%" height="500" align="right" alt="Github" src="https://user-images.githubusercontent.com/88109183/212560479-f44bfe21-0c91-4202-a243-84fed0e2fcd1.jpg" />
+<img width="300" height="300" align="right" alt="Github" src="https://user-images.githubusercontent.com/88109183/212560479-f44bfe21-0c91-4202-a243-84fed0e2fcd1.jpg" />
 - I'm in my pre-final year of CSE Grad. </br>
 - Currently working as Android developer(JAVA/Kotlin). </br>
 - Learning backend development. </br>
