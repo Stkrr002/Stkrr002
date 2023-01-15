@@ -1,11 +1,13 @@
 # Hi, I'm Sumit Kumar, Software Developer 🚀 from India.<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="30px">
-- 👀 I’m interested in Android development(JAVA/Kotlin)
-- 🌱 I’m currently learning blockchain technology
+##About Me
+<img width="55%" align="right" alt="Github" src="https://user-images.githubusercontent.com/88109183/212559869-818af01d-4942-4469-8e09-33093a4b6815.jpg" />
+- I'm in my pre-final year of CSE Grad.
+- Currently working as Android developer(JAVA/Kotlin)
+- Learning backend development.
 - * Know well about Linux.
 - * A good problem solver(DSA).
--  I’m looking to collaborate on Youtube
-- 📫 How to reach me  https://www.linkedin.com/in/Stkrr002
-
+- An open source enthusiast.
+- Interested in blockchain and AR VR
 
 <!---
 Stkrr002/Stkrr002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
