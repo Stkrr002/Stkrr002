@@ -1,5 +1,5 @@
 # Hi, I'm Sumit Kumar, Software Developer from India.<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="30px">
-## About Me
+## About Me-
 <img width="400" height="250" align="right" alt="Github" src="https://user-images.githubusercontent.com/88109183/212560694-984e83e2-dec3-46af-8fb5-151ff453320d.svg" />
 - I'm in my pre-final year of CSE Grad. </br>
 - Currently working as Android developer(JAVA/Kotlin). </br>
@@ -13,7 +13,7 @@
 Stkrr002/Stkrr002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-## Techs I have worked on:-
+## Techs I have worked on-
 <p align="left">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="31" height="35"/> &nbsp;
@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-## Connect with me:-
+## Connect with me-
 
 <a href="mailto:sumitkrr2002@gmail.com">
   <img align="left" width="24px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
