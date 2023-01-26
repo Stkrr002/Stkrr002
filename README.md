@@ -37,7 +37,7 @@ You can click the Preview link to take a look at your changes.
 </a>
 
 <a href="https://medium.com/@sumitkmr">
-  <img align="left" width="25px" src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg" />
+  <img align="left" width="25px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />
 </a>
 
 
