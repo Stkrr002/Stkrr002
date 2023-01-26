@@ -36,6 +36,11 @@ You can click the Preview link to take a look at your changes.
   <img align="left" width="25px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
 </a>
 
+<a href="https://medium.com/@sumitkmr">
+  <img align="left" width="25px" src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg" />
+</a>
+
+
 <br />
 <br />
 <p>&nbsp;</p>
